@@ -1,0 +1,71 @@
+*******************************************************************
+*                     Battleworld verze 2.1                       *
+*******************************************************************
+
+-------------------------------------------------------------------
+     Mapa pro Heroes III Shadow of the Death/Heroes 3 Complete
+-------------------------------------------------------------------
+
+[History]
+
+29.11.2000 - verze 0.1 (první pokus)
+08.05.2001 - verze 0.2 (obsahuje pár úprav oproti verzi 0.1 - 
+                        - zaslána jako má první mapa na betatest)
+17.03.2002 - verze 1.0 (totální pøedìlávka mapy - nedodìlaná)
+02.04.2002 - verze 2.0 (pøedìlávka verze 2.0 - zaslána na betatest)
+04.04.2002 - verze 2.1 (upraveno dle bodù 1-4 v sekci PaTTrick)
+
+-------------------------------------------------------------------
+
+[betatest results - PaTTrick]
+
+1. U hráèe pink se nedá dostat pøes Altar of Sacrifice na 10,16,0.
+   - Altar of Sacrifice pøesunut na 5,20,0.
+2. V podzemí se nedá dostat zprava k rozhlednì na 28,15,1.
+   - Rozhledna pøesunuta na 29,13,1
+
+3. Nelze navštívit fialového klíèníka v podzemí.
+   - Opraveno, odstranìna pøekážka na 53,41,1.
+
+4. Zmatené pobíhání u hráèe tan.
+   - Ponecháno bez úpravy (jsou horší zpùsoby smrti ;-)).
+
+-------------------------------------------------------------------
+
+[betatest results - Yuri]
+
+
+-------------------------------------------------------------------
+
+[betatest results - Saggi]
+
+
+-------------------------------------------------------------------
+
+[my brother's test results :-)]
+
+
+-------------------------------------------------------------------
+
+[NEW!]
+
+
+-------------------------------------------------------------------
+
+[My other maps]
+
+Moje pøedchozí dvì uveøejnìné mapy najdete na stránkách Kal_kala:
+
+                 http://heroes.web3.cz
+
+01. 29.08.2001 - Prsten zaklínání
+02. 31.01.2002 - Legenda ostrovního království (LOK)
+
+-------------------------------------------------------------------
+
+                *******************************
+                *                             *
+                *  made by broono 02/04/2002  *
+                *  mailto: broono@centrum.cz  *
+                *                             *
+                *******************************

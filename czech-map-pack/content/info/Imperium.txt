@@ -1,0 +1,24 @@
+Blahopøeji k úspìšnému stáhnutí mapy Imperium of Might and Magic.
+
+1.POPIS MAPY
+
+Verze mapy	: SOD
+Obtížnost	: expert
+autor		: Hector (e-mail: activus@email.cz)
+hráè/poèítaè	: èervený/modrý
+
+ZIP-soubor obsahuje mapu Imperium.h3m, 16 obrázkù s pøíponou pcx a tento textový soubor.
+
+2.INSTALACE
+
+Do adresáøe ...\Heroes3\Data zkopírujte všech 16 obrázkù s pøíponou pcx. 
+Do adresáøe ...\Heroes3\Maps zkopírujte soubor Imperium.h3m.
+
+3.HRA
+
+Po spuštìní Heroes3-The Shadow of Death a spuštìní mapy Imperium of Might and Magic zaèínáte jako hrdina Josef Novák (typ hrdiny knight, identita Edric). Hrajete za èerveného hráèe, protivníci jsou modøí. Jejich jména a portréty by mìly odpovídat jménùm a ikonám, pod kterými se vyskytují na Mageu a Cyberspace.
+Doporuèuji èíst všechny cedule a eventy a úplnì na zaèátku se všichni podívejte do obou stanù, protože jinak hru nedohrajete.
+Tato mapa je urèena jen a jedinì pro vaší zábavu. Doufám, že nikomu nevadí že musí zlikvidovat sám sebe :) aby mapu dohrál.
+
+Hra byla skonèena 17.12.2000 a byla otestována Firebirdem, Gremlinem a Draquem, kterým za to vøele dìkuji. Finální verze dokonèena 30.12.2000.
+ 

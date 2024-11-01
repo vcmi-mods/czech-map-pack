@@ -1,0 +1,65 @@
+Ahoj,
+
+Toto je doprovodni text k HoMM 3 mapì : 
+
+Skryta hrozba ( Dotek pekla II. )
+
+
+V pøiloenem souboru by mìla byt finalní verze mapy.
+
+Èeština je opravena a tìch par novıch vìt, co jsem tam pøidal snad chybu neobsahuje...
+
+Opravene chyby a zmìny :
+
+1) Pøidání kartografa do mapy a jednoho vtipu :-)
+2) Opravené pravopisne chyby a pøeklepy - Gremlin
+3) Opravene poèty nepratel ( v betì nebylo zaškrknuto ponechání stavajícího stavu, take pøi delším hraní se vedla bitva tøeba proti 800 Ghost. dragonum. )
+4) Odstranìny objekty branící v prùchodu ( kostra v Kamennem lese, kytka u 3. fakulty atd...)
+5) Opraveny vlastnosti manika v Jezerním mìstì
+6) Opraveny vlastnosti prvního pomocníka
+7) Byla èásteènì pøestavìna mokøina
+8) Zmìnìny nìkteré úkoly a pøidání jednoho mìsta ( Jezerní vì ) a jednoho nepøítele ( odpadlı mág Anorax )
+9) Opraveny povolené budovy ve mìstech
+10) Pøibylo nìkolik novıch Timed evans
+11) Bylo odstranìno nebezpeèí, e se vám náhle v pondìlí vyrojí po mapì lots potvor ( bylo to dosaeno pøidáním artefaktové budovy do pekelneho mìsta - impové +15 pasují do pøíbìhu a pokud se vyrojí, je to pøece pøedzvìst útoku pekelníkù :-) a na druhou stranu, kolik impù pomlátíte s jedním crusaderem ? a kolik grifinù ?, e jo Kal kale :-))) )
+
+Nìco k mapì.
+Take, mapa je pro jednoho hráèe.
+Obtínost je normal, ikdy nìkdo mona bude mít pocit, e je spíš hard.
+Já osobnì doporuèuju nastavit na zaèátku obtínost imposible (nebo hard) a pøidìlit si random vìc pro pokroèilé a pro easy si pøidìlit artefakt ( pro ménì zkušené hráèe ). Mapa je odladìná na hard, take se mùe zdát pøi lehèím nastavení pøíliš lehka :-))) 
+Velikost je XL
+Verze mapy je RoE , tedy Restoration of Erathia - tím pádem ji mùoete hrát i bez instalovaného datadisku. Verze AB ( Armagedon's blade ) je vıhledovì v plánu :-)
+K hraní snad jen to, e jsem se snail, aby hra byla vyváená a nenudila... Jednou sem ji zkušebnì zahrál a dojel ji za rovnıch 220 dnù, ale to jsem jel samozøejmì na jistotu :-)) Brácha to zkoušel jen tak a mìl dnù 366, z toho však ještì mu chybìlo odkrıt 1/2 mapy.
+Ve høe je spousta subquestù, které vùbec nejsou nutné k dohrání hry, ale pro skalní paøany jsou povinností :-) 
+U se tìším, na hlášky : Zachránil jsem oba gnoly a vyloil je ve Zlatém lese a podobnì :-)
+Mimochodem, vést boj s hydrou s gnolem v partì a mít ho nakonci naivu... No jde to :-)
+
+K pøíbìhu : 
+
+Komtesa Adriana se vrací ze své první obchodní cesty. Ma v planu pøistat v Severním  pøístavu Zelené zemì a odtud po kralovske cestì cestovat karavanou na jih, k domovu. Kdy se však pøiblíi k západnímu prùplavu do Vnitrozemnho moøe, strhne se obrovská bouøe. Zkušenému kapitánovi se jen tak tak podaøí loï zachránit i s majetkem. Na Severu vypuká válka... Cesta skrz Vnitrozemní moøe je uzavøena... 
+Adriana ví, e v této dobì je jí nejvíce zapotøebí doma. Zemì nemùe bıt dlouho bez vùdce, a u vùbec ne v tìchto tìké dobì. Po poradì s kapitánem se proto rozhodnou obeplou západní pobøeí a pokusit se pøistát nìkde na jihu. Odtud se pak nejkratší cestou snait dostat do svıch drav...
+
+
+Doufám, e se vám mapa bude líbit, a e si najdete pìt minut k tomu, abyste mi napsali své dojmy.
+Klidnì napište i vaše návrhy na pokraèování pøíbìhu o Zelené zemi, a nebo napady na nìco úplnì jiného, nového :-) 
+Na druhou stranu, pøiznám se, e by mì mnohem více potìšilo, kdyby jste si nápad nechali pro sebe a mapu sami udìlali. Alespoò by se rozšíøila základna èeskıch tvùrcù a pøibylo by více èeskıch
+( kvalitních ) map.
+
+A ještì podìkování a nìkolik komentáøù :
+
+Gremlin - díky za to, s jakou vervou ses pustil do opravování celkem 33 stránek textu, kterı mapa obsahuje a za osvìtovou èinnost ohlednì HoMM.
+Kal Kal - za distribuci a schromaïování èeskıch map - navštivte jejich stránky ! ( mimochodem u jsi doplnil tu kolonku "verze" ? )
+Zuna    -  za inspiraci :-) , ani o tom vìdìl
+Blaze    -  za to, jak je v HoMM "nejlepší" a nutí mì mu dokazovat, e v dìlání map jsem lepší pro zmìnu já
+Knihovnice - e mìla recht pojmenovat v Odyseovi padoucha podle ( ale vdy to víme podle koho, kdo neví, pøeète si o jméno vıše )
+Rumburak - za ohromné povzbuzování Gremlina, aby vydrel ještì jednu vìtu, kdy kolaboval pøi opravování textu
+Honza - e poslal první mejl s reakcí na Dotek pekla
+
+A díky všem, co poslali své dojmy a zapøièinili kolaps mé schránky :-))))
+
+
+P.S Navštivte www.mageo.cz     Auditoria, Games, Heroes of Might 1-4 (Kdo nezná tyto hry, jako by neil :-))) ) Nebo tak nìjak to tam Kal - Kal napsal :-)
+
+
+Tak dosti tlachù a vrhnìte se na to :-)
+                                                      Váš LEKI   ,   LEKI@POST.CZ

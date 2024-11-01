@@ -1,0 +1,27 @@
+Gladiátor
+
+Poèet hráèù: 1 + 4x poèítaè
+Velikost: M
+Verze: RoE
+Obtínost: Expert
+Betatest: H&D
+Vítìzství: Porazit všechny nepøátele
+Prohra: Pøíjít o Maxima
+
+
+Náplò mapy:
+Maximus, svrenı velitel øímskıch severních armád, musí pomstít pravého císaøe Marca Aurelia tím, 
+e zabije nynìjšího nepravého císaøe!
+
+Autor:
+FIREBIRD
+
+firebird@email.cz
+
+http://www.mageo.cz/home/FIREBIRD/
+
+Na tìchto stránkách najdete informace o Zeusovi, Pharau a Caesarovi 3 a všechny moje mapy do Heroes 3.
+
+Soubor gladiatro.h3m pøesuòte do adresáøe MAPS s Heroes3!
+Celı obsah adresáøe DATA pøesuòte do stejnejmeného adrésáøe s Heroes3!
+

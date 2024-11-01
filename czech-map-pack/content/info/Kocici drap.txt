@@ -1,0 +1,206 @@
+===== Název mapy =====
+Koèièí dráp
+
+===== Popis mapy =====
+D'ábelskı král Xeron se schovává ve svém mìstì kde vyhlíí,kdy bude moci získat další ùzemí(zemi Koèièího drápu).Jedinı,kdo je schopen se mu postavit je din Fafner.Jak to dopadne je na tobì,tak hurá do boje.	                                                                   §Niven§
+
+===== Povìsti =====
+
+===== Èasové události =====
+
+Jméno:
+událost 1
+Zpráva:
+Tví špioni zjistily,e Xeron podplatil Clanciho,Behemota a Yoga,kteøí ti budou dìlat velké potíe se zabitím Xerona.
+
+Jméno:
+událost 2
+Zpráva:
+ Pøeji pøíjemné hraní...§Niven§
+
+Jméno:
+udalost 3
+Zpráva:
+Dinové z této zemì ti darují suroviny.
+
+===== Hrdinové =====
+
+===== Objekty =====
+
+(9, 141, 0) ***Událost***
+Zpráva:
+Tento pytlík zdarma nebude.
+
+(16, 141, 0) ***Událost***
+Zpráva:
+My hlídáme zkamenìlé hnáty legionáøe.
+
+(19, 142, 0) ***Událost***
+Zpráva:
+My zase slabiny.	
+
+(13, 143, 0) ***Oko zla***
+Zpráva:
+My se k tobì moc rádi pøidáme.Budeš nás potøebovat.
+
+(5, 123, 0) ***Giant***
+Zpráva:
+Xeron u nás tak zohyzdil,e jsme schopni pouze posledního boje,budeš schopnej nám dát ránu z milosti?	   My se ti za to rádi obmìníme.
+
+(26, 136, 0) ***Torzo legionáøe***
+Zpráva:
+My jsme legionáøovi pøísahali,e ho budeme chránit i po smrti.
+
+(23, 131, 0) ***Pae legionáøe***
+Zpráva:
+Tato èást bude asi zadarmo.
+
+(41, 107, 0) ***Ukazatel***
+Zpráva:
+Legenda praví,e 5 krokù smìrem na sever èíhá Velká obluda  a e prùmìrní hrdinové se tam neodváí,protoe tam vìtšina zahyne.
+
+(39, 102, 0) ***Událost***
+Zpráva:
+My jsme nejvìtší zkáza,co tu v tıhle zemi mùe bıt.
+
+(32, 133, 0) ***Pandoøina skøíòka***
+Zpráva:
+Tady je to nejvìtší bohatství co tu mùe bıt.
+
+(49, 140, 0) ***Událost***
+Zpráva:
+My jsme D¨áblové a chráníme Pouta války.
+
+(72, 124, 0) ***Mistr din***
+Zpráva:
+Copak si vidìl nìkdy Pevnost bez ochrany?
+
+(74, 130, 0) ***Událost***
+Zpráva:
+
+
+(39, 99, 0) ***Událost***
+Zpráva:
+Zaplat' za artefakty.
+
+(18, 103, 0) ***Ukazatel***
+Zpráva:
+Jestli chceš získat Aine,tak musíš porazit stráe,kteøí hlídají vìzení.
+
+(15, 104, 0) ***Arciïábel***
+Zpráva:
+Pøes nás projdeš,pouze jestli nás zabiješ.
+
+(3, 22, 0) ***Událost***
+Zpráva:
+Cesta ke Xeronovi.
+
+(12, 96, 0) ***Událost***
+Zpráva:
+Toto je svatá zemì,tady boj nehledej.
+
+(35, 85, 0) ***Událost***
+Zpráva:
+Blokující koule.
+
+(142, 32, 0) ***Rtu***
+Zpráva:
+Docela velké mnoství rtuti.	    Vrhnul jsem se na ní,ale koukám-vedle jsou d'áblové a øvou!!!!	      Tto jeje nnaššše rtttut' aa zzzaddarmmmo tti jjí neddámme.
+
+(115, 49, 0) ***Ukazatel***
+Zpráva:
+Tady není nic jiného,ne lesy ostrostøelcù.
+
+(98, 34, 0) ***Ukazatel***
+Zpráva:
+2 kroky na jih a vejdete do území Stromovıch entù.		        PS:Urèitì tam budou mít nìjaké stráe.
+
+(94, 38, 0) ***Událost***
+Zpráva:
+Stromoví enti útoèí na všechny nepøátele.
+
+(51, 25, 0) ***Barbar***
+Jméno:
+Behemot
+
+(76, 79, 0) ***Ukazatel***
+Zpráva:
+Pozor támhle na sever,kam máš zrovna namíøeno leí 5 mìst Behemotù,které urèitì hlídají,tak pozor na kadı krok.
+
+(74, 76, 0) ***Událost***
+Zpráva:
+Zdarma mìsta nezískáte.
+
+(136, 55, 0) ***Událost***
+Zpráva:
+Ty jsi,ale odvánej plout a sem,za to dostaneš odmìnu.
+
+(27, 58, 0) ***Starovìkı behemot***
+Zpráva:
+My jsme smrt a nikdo nás jentak zabíjet nebude.
+
+(68, 47, 0) ***Událost***
+Zpráva:
+Pøišel jsi a zaèal náhodnì kopat.	             Kopal jsi tak dlouho,a si vykopal artefakt.
+
+(73, 61, 0) ***Událost***
+Zpráva:
+Koukáš na zem a ejhle...	    Ještì jeden artefakt a získáš Elixír ivota,kterı by ti pøidal vıhody v boji.
+
+(75, 51, 0) ***Ukazatel***
+Zpráva:
+Toto je hrobka Kilgora,kterého zabil Xeron,protoe se k nìmu nechtìl pøidat.
+
+(92, 61, 0) ***Událost***
+Zpráva:
+Tady leí hodnì barbarù,kterı vyvradil Xeron.
+
+(89, 59, 0) ***Ukazatel***
+Zpráva:
+Tady zase Krellion.	
+
+(91, 57, 0) ***Ukazatel***
+Zpráva:
+Tady je pochovaná Vey.
+
+(90, 55, 0) ***Ukazatel***
+Zpráva:
+Tady je Jabarkas.
+
+(92, 56, 0) ***Ukazatel***
+Zpráva:
+Tu je hrobka Gretchina.	
+
+(94, 60, 0) ***Ukazatel***
+Zpráva:
+Zde leí Shiva.
+
+(93, 60, 0) ***Událost***
+Zpráva:
+Pøece je nebudeš vykrádat ty hambáku.	  Nestydíš se trochu???
+
+(97, 127, 0) ***Fanatik***
+Zpráva:
+My nenávidíme diny!!!
+
+(98, 138, 0) ***Událost***
+Zpráva:
+Rada od proroka:           	   Pluj dál Fafnere,nebudeš toho litovat.
+
+(93, 143, 0) ***Událost***
+Zpráva:
+To je pro jen Fafnera.
+
+(16, 139, 0) ***Událost***
+Zpráva:
+Na jih bì a budeš mít nìjakı vojáky,jinak to nemá cenu.
+
+(20, 119, 1) ***Ukazatel***
+Zpráva:
+Pamatuj si!!!	    Támhle v tom teleportu u není cesta zpátky.
+
+(16, 118, 1) ***Událost***
+Zpráva:
+Ještì se mùeš vrátit.
+
+===== Konec souboru =====

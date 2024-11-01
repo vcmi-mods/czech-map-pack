@@ -1,0 +1,14 @@
+Název-Draèí srdce
+Typ---The Shadow of Death
+Velikost--XL
+Obtížnost---Expert
+Podmínky výhry---Porazit Zlatého draka
+Podmínky prohry--Pøijít o hrdinu Bowan
+Svoje jméno(Nick)------Niven
+email------------------niven@seznam.cz
+Jméno Beta-Testera-----Niven
+email Beta-Testera-----niven@seznam.cz
+
+
+Král Einon drží ve vìzení draka,který mu dává nesmrtelnost.
+              Toho draka musíš zachránit.

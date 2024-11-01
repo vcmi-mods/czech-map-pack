@@ -1,0 +1,16 @@
+Název-Souboj Titánù
+Typ---The Shadow of Death
+Velikost--L
+Pro jednoho èlovìka
+Obtížnost---Expert
+Podmínky výhry---Porazit Behemota jménem Kraken
+Podmínky prohry--Pøijít o hrdinu Perseus
+Svoje jméno(Nick)------Niven
+email------------------niven@seznam.cz
+Jméno Beta-Testera-----Niven
+email Beta-Testera-----niven@seznam.cz
+
+
+Princ Perseus musí zachránit princeznu Andromedu pøed sežrání Krakenem.
+           Nejdøív se musí dostat ke tøím èarodìjnicím,které mají jedno oko a jedí lidské maso.
+Ty mu poradí,jak zabít Krakena!!!

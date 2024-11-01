@@ -1,0 +1,12 @@
+Autor: Halfmoon (kryenp@gmail.com)
+Pøíbìh: Bájné mìsto Elarie skuteènì existuje ! Pokusíš se jej dobýt døív než tvý nepøátelé, nebo je prostì všechny znièíš ?
+Verze hry: HoMaM 3 Complete, hráno a odzkoušeno také v Mythology modu (doporuèuji)
+Dokonèeno: 26.4.2018
+
+Jazyk: CZ
+Velikost mapy: 72x72
+Poèet hráèù: 4
+Podmínky vítìzství: dobytí mìsta Elarie, nebo poražení všech nepøátel
+Podmínky prohry: ztráta všech mìst a armád
+
+Na mapì mùžete narazit na spousty mini úkolù a eventù :) Enjoy.

@@ -1,0 +1,54 @@
+Doprovodnı soubor ke kampani
+
+Technickı popis
+
+Název kampanì : Èas utrpení
+Poèet map :  4
+Formát : Armageddon's Blade
+
+Scénáø : Leki
+Design map : Leki
+Zpracování v editorech : Leki
+Video :  -  Animace : 3DO, New World Computing (pouity standardní animace HoMM 3)
+               -  Namluvení animací : Snìhurka ( pouití Wave studio - software SB Live! )
+               -  Hudba : Leki ( pouita hudba z HoMM 2, nahrána do formátu wav, mixovaná s namluvenou èástí a komprimovaná do formátu mp3, pøevedena do formátu cu pro potøeby instalace )
+Kompletace kampanì : Leki
+Betatest : Gremlin
+Korektury : Gremlin, Hidden
+Technické èásti : H0nza ( programování instalace a deinstalace, konzultace mp3, testování uloení na webu  etc.) , 
+Distribuce : Kal Kal
+
+Dotazy smìøujte na Leki@post.cz, pøípadnì na mapy.do.heroes@post.cz .
+
+Podìkování :
+Pøedevším Snìhurce, za èas strávenı na realizaci mého nápadu, udìlat èesky intro a outro...
+Gremlinovi, kterı opravoval èeštinu snad 10x, dokud se mu to nezdalo dobré ( stejnì jsem ještì poté doplnil nìjaké texty, take pokud nìkde najdete pøeklep nebo chybu, tak on za to opravdu nemùe - to mì èeština dìlá trochu potíe :- )
+H0nzovi, kterı mì stál majlant na úètu za telefon, ale díky nìmu jste si mohli kampaò stáhnout a nainstalovat bez potíí ( alespoò doufám, e to tak je :-)
+Pak samozøejmì všem vıše uvedenım, kteøí se na vìci nìjakım zpùsobem podíleli.
+A na konec samozøejmì New World Computingu - u se tìšíme na 4. díl :-)
+
+Pár slov na závìr :
+
+Na této adrese naleznete nejlepší archív èeskıch map. Jejím správcem je KAL KAL :
+http://members.tripod.com/kalkal/HEROES_III/ 
+Nejkomplexnìjší informace o Heroes of Might and Magic 3 a jeho datadiscích naleznete u Gremlina :
+Odtud fungují další linky, jako napøíklad na stránky Hiddena a dalších.
+http://web.telecom.cz/gremlin/
+Navštivte taky naše auditoria na serverech MAGEO.CZ a CYBERSPACE.CZ nazvána jak jinak, ne Heroes of Might and Magic (Kdo nezná tyhle hry, jako by neil :-))) ) nejhavìjší vìci se dovíte právì tady.
+
+Slovo ke kampani :
+Pokud se vám zdá, e mp3 jsou nic moc, tak snad  na svou obhajobu mohu øíci, e je to mùj první pokus ohlednì zvuku... Kromì toho, nemám k dispozici ádnı zvukovı software ( btw neposílejte mi prosím ádné nabídky, jako e mi nìco pošlete :-) , nìjaké shareware si seenu sám :-) ). Nemìl jsem k dispozici ani poøádnı mikrofon... Namlouvané je to pøes headset, do wave studia... stejnì tak i hudba. Nahrával jsem to na 44, 16, stereo, ale ten mikrofón mi šumìl, a jsem dìlal, co sem dìlal ( pøíštì to ale bude urèitì lepší, protoe u jsem hodil øeè s jedním profi hudebníkem :-) - ehm, tedy pokud nìjaké pøíštì bude... To a podle ohlasù na Èas utrpení :-) ). Pak jsem to pøevedl v MP3 kompresoru, kterı mi poslal Gremlin, za co mu patøí díky ( ovšem stejnì mi to musel poslat H0nza ještì jednou, protoe sem to jaksi nepochopitelnì odvaøil a instalaèku si samozøejmì smazal :-), do mp3-jek ... 44, 16, stereo (128kbps).
+Vısledek mého úporného snaení za chvíli doufám uslyšíte :-) (btw - pouštìt to "na sucho" ve winampu - nebo jiném pøehrávaèi - je nic moc. Chybí tam toti dost ta animace a zvuky s ní spojené, které uslyšíte jen v Heroes, nemluvì o tom, e vám bude pøíbìh odhalen dopøedu, tudí se pøipravíte o poitek ze hry...
+Ještì jedna vìc - zatím je technicky nemoné zamezit tomu, aby se po skonèení hudby v animaci tato nezaèala opakovat :-( , v praxi to znamená, e pokud neodkliknete video po domluvení , zaène se to po chvilce opakovat... :-( . Víme, proè to dìlá, ale popis by byl na tøi stránky, nemluvì o tom, e spousta z vás by to asi z mého vykládáni nepochopila a akorát by se naštvala, e èetla tolik tlachù zbyteènì :-). Snad jen, e se usilovnì hledá zpùsob, jak tomu zamezit :-) Zatím je to øešené tak, e hudba je prostì o nìco delší, a tak nìjak doufám, e to kadı odklikne ( pùvodnì jsem chtìl napsat do textu (zmáèknìte myš, ale pak jsem to vypustil... ))... ( tedy hned první èlovìk, co to stáhl, mi psal, e "pøekvapilo mì, e mluvení šlo dokola..." .... tak nevím, jestli to tak bude, holt ta hudba je asi fakt dost dobrá, a kadı si ji chce poslechnout "do konce " ...  :-) )
+Problém je tu ještì jeden, a to, e pokud budete restartovat mapu kampanì, tak se stává, e hudba a mluvené slovo zaènou "od pùlky" :-( , ...taky víme, proè to dìlá, a platí toté co pøed chvílí...
+Øešením je prozatím v druhém pøípadì znovu spustit Heroes...
+
+Jinak samozøejmì kampaò je komplet originál a svìt, ve kterém se odehrává je mım vımyslem :-), sám jsem ji poctivì vyskládal do posledního kamínku, a e mi u toho XL-ka u tekly nervy :-)
+
+No, tak to by staèilo, myslím... Pøípadné ohlasy a dotazy pište na vıše uvedené adresy... Budou vítány všechny zprávy, mimo anonymních vıhruek :-)
+
+P.S.  Snad vás potìší i zpráva, e se velmi usilovnì pracuje na èeštinì do Heroes ( pøeloení H3 - RoE a AB ), a to Gremlinem, Hiddenem a Draquem. Proto sledujte vıše uvedené sajty, a vám tato skvìlá vìc neunikne :-) Èeské heroes s èeskou kampaní, kde je i intro v èeštinì stojí za zamyšlenou, nemyslíte ? 
+:-)))
+
+Tak si to teda zkuste poøádnì uít, zdraví vás  :   LEKI
+

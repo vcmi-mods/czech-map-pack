@@ -1,0 +1,26 @@
+Šachová partie 2
+
+Poèet hráèù: 1
+Velikost: S
+Verze: AB
+Obtížnost: Nemožná (jak pro koho, že Draque)
+Betatest: H&D, Gremlin, Pattrick
+Vítìzství: Zabít všechny nepøátele.
+Prohra: Limit 6 týdnù
+
+Náplò mapy:
+Mistøi šachù, Kasparov & Karpov nedávno porazili nemrtvé. 
+Ale to nebyl konec jejich bojù na šachovnici. 
+Nyní se vydávají na souboje s lepšími protivníky, kteøí také hrají šachy. 
+Jsou nimi Barbaøi, na šachovnici pøipomínající bažinu a konec svìta. 
+Dokáží šachovnici opìt projít a vyhrát i nyní?
+
+Autor:
+FIREBIRD
+
+firebird@email.cz
+
+http://www.mageo.cz/home/FIREBIRD/
+
+Na tìchto stránkách najdete informace o Zeusovi (Diovi), Pharau a Caesarovi 3 a moje další mapy do Heroes 3.
+Pravidelné aktualizace (minimálnì 1x za 3 dny)!
