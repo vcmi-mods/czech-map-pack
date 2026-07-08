@@ -1,7 +1,7 @@
 {
 	"name" : "Czech Map Pack",
 	"description" : "A collection of Czech maps for Heroes of Might and Magic III.",
-	"version" : "1.0.2",
+	"version" : "1.0.3",
 	"author" : "Various authors",
 	"contact" : "",
 	"modType" : "Maps",
@@ -9,6 +9,9 @@
 		"min" : "1.6.0"
 	},
 	"changelog" : {
+		"1.0.3" : [
+			"Added 12 new maps"
+		],
 		"1.0.2" : [
 			"Added changed portraits submod",
 			"Added 19 new maps"
