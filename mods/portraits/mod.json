@@ -1,0 +1,21 @@
+{	
+	"name" : "Changed portraits",
+	"description" : "Replaces the original hero portraits throughout the game to improve the experience on selected maps. This mod does not need to be enabled permanently—only enable it when playing maps that require it.",
+	"version" : "1.0",
+	"author" : "Various authors",
+	"contact" : "",
+	"modType" : "Maps",
+	"keepDisabled" : true,
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0" : [ "Initial release" ]
+	},
+	"czech" : {
+		"name" : "Změněné portréty",
+		"description" : "Nahrazuje původní portréty hrdinů napříč celou hrou, aby zlepšil zážitek z některých map. Modifikaci není nutné mít běžně povolený – aktivujte jej pouze při hraní map, které jej využívají."
+	}
+}
