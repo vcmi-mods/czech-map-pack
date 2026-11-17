@@ -34,8 +34,8 @@
 			"translation/czech.json"
 		]
 	},
-	"translations" : {
+	"translations" : [
 		// english.json is overwriten by GitHub Actions
 		"translation/int.json"
-	}
+	]
 }
